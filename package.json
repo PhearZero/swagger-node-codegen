@@ -47,6 +47,6 @@
     "json-schema-ref-parser": "^4.0.4",
     "lodash": "^4.17.11",
     "project-name-generator": "^2.1.6",
-    "word-wrap": "1.1.0"
+    "word-wrap": "1.2.3"
   }
 }
